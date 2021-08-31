@@ -1,0 +1,7 @@
+Samuel Ibou MARONE
+
+Liens vers site web : https://simarone-fusescrum.netlify.app
+
+Lien Front : https://github.com/SAMUEL210/front-mentorat/
+
+Lien Back : https://github.com/SAMUEL210/back-mentorat
